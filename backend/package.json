@@ -1,0 +1,10 @@
+{
+  "name": "clean-architecture-ecommerce-backend",
+  "version": "1.0.0",
+  "description": "Exemplo didático de Clean Architecture no Backend (E-commerce) para apresentação acadêmica.",
+  "type": "module",
+  "scripts": {
+    "start": "node src/main.js",
+    "demo:cli": "node src/demo-cli.js"
+  }
+}
